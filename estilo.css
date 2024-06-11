@@ -1,0 +1,109 @@
+
+.conteiner { 
+    width: 100%;
+    margin: auto;
+}
+
+.conteiner img{
+    width: 100%;
+}
+
+.center{
+    position: absolute;
+    top: 90%;
+    left: 30%;
+    text-align: center;
+    color: red;
+    padding: 10px;
+    font-size: 50px;
+   
+    
+}
+
+.titulo {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.conteudo-texto {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    text-align: justify;
+}
+
+.subtitulo {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+
+body {
+    margin: 0;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+.navbar {
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    box-shadow: 0px 0px 3px #ccc;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.navbar a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+iframe {
+    width: 100%;
+    height: calc(100vh - 100px);
+    border: none;
+}
+
+.content {
+    padding: 20px;
+
+}
+
+img {
+    padding: 20px;
+}
+
+.rodape {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
